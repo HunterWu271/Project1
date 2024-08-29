@@ -28,3 +28,4 @@
       進到GitHub你的帳號下的設定，選擇SSH及GPG keys，
       將其複制儲存即可。)
       ```
+   2. Windows: https://blog.alantsai.net/posts/2015/09/use-ssh-in-windows-for-github
